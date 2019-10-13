@@ -1,17 +1,8 @@
-# my_diary_app
+## My Diary
 
-A new Flutter application.
+This is a simple list view app written in Flutter with some sweet animations while adding an object to the list. 
+The created textview is also expandable so it can handle widget height changes.
 
-## Getting Started
+![alt text](https://github.com/Wojak27/MyDiary/blob/master/ezgif.com-video-to-gif(1).gif)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
-# MyDiary
+## Feel free to try it out!
